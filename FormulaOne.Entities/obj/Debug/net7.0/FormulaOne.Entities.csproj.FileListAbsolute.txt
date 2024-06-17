@@ -1,0 +1,11 @@
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/bin/Debug/net7.0/FormulaOne.Entities.deps.json
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/bin/Debug/net7.0/FormulaOne.Entities.dll
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/bin/Debug/net7.0/FormulaOne.Entities.pdb
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.AssemblyInfoInputs.cache
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.AssemblyInfo.cs
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.csproj.CoreCompileInputs.cache
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.dll
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/refint/FormulaOne.Entities.dll
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/FormulaOne.Entities.pdb
+/Users/kirk/Downloads/Projects/SQLite-Automapper/FormulaOne.Entities/obj/Debug/net7.0/ref/FormulaOne.Entities.dll
